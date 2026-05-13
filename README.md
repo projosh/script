@@ -13,5 +13,5 @@ Write a README-like document in order to explain synthetically what are:
 <p>Quand l'application console est éxécuté, celle-ci lance un interpréteur de commande ou un terminal, les instructions ou les messages sont affichés à l'utlisateur(E/S). Le programme attend donc que l'utiisateur saissire des commande spécifique tel que des arguments, des actions ou des options à effectuer.</p>
 <IMG src=https://www.luisllamas.es/images/20078/aplicacion-consola-entradas.webp> 
 
-<p></p>
+<p>Une fois la commande entrée, l'application travail et produit la réponse qui correspond à une sorti. La console peut fournir différent type de  sortie fourni par l'utilisateur</p>
 
