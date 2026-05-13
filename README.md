@@ -33,6 +33,23 @@ Write a README-like document in order to explain synthetically what are:
 <p>Console, terminal, ligne de comande sont des synonymes</p>
 </p>
 
+<h2>Shell</h2>
+
+<p>Un shell est un programme qui fournit une interface utlisateur à un système d'exploitation(OS).
+Il permet d'interagir avec l'ordinateur en tapant des lignes de commandes et en exécutant. Il agit comme un interprète de ligne de commande, prenant vos entrées, les interprétant et exécutant les actions correspondantes.
+
+<p>le shell permet d'écrire des scripts, ce sont des petits programmes écrits dans un langage spécifique comme bash. Il permet d'automatiser des tâches</p>
+
+Il existe plusieurs type de shell : 
+  <ul>
+    <li>Bash</li>
+    <li>Zsh</li>
+    <li>PowerShell</li>
+  </ul>
+
+<p>Shell interprète les commandes saisies dans ce terminal</p>
+</p>
+
 
 
 
